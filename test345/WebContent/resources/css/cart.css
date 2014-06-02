@@ -1,0 +1,138 @@
+
+div.gRight div#autoTrackCalcTopContainer { 
+	padding-top:5px; 
+	border: 1px solid #d4d4d4; 
+	border-top-color:#dedede; 
+	border-left:0;
+}
+
+div#autoTrackCalcData {
+	background-color: #F5F1E1;	
+	border: 1px solid #C8C8C8;
+	display: inline-block;
+	height: 75px;
+	margin: 8px 0 10px 10px;
+	width: 135px;
+}
+
+.center {
+	text-align: center;
+}
+
+div.left-nav-context {
+	font-weight: bold;
+}
+
+div.left-nav:hover {
+	text-decoration: underline;
+	color: blue;
+}
+
+td.add-to-cart {
+	cursor: pointer;
+}
+
+td.add-to-cart:hover {
+	border-color: #cccccc;
+	text-decoration: underline;
+}
+
+div#scContainer {
+	margin: 10px auto 0; 
+	width: 1050px;
+	/*border: 1px solid #DDDDDD;*/ 
+}
+
+div#scLeftNav {
+	background-color: none; 
+	float: left; 
+	width: 200px; 
+	cursor: pointer;
+}
+
+div#middleContent {
+	background-color: none; 
+	float: left; 
+	width: 640px;
+}
+
+table#middleContentItems {
+	padding: 0px; 
+	margin-left: 10px;
+	width: 620px;
+}
+
+div#rightPanel {
+	width: 200px; 
+	float: left; 
+	background-color: none;
+}
+
+div#rightPanelSubtotal {
+	float: right; 
+	width: 200px;
+	margin-right: 10px;
+	color: white;
+	font-weight: bold;
+}
+
+div#rightPanelSubtotalTitle {
+	float: left; 
+	width: 70px;
+}
+
+div#sumSubtotal {
+	float: left; 
+	width: 110px; 
+	text-align: right;
+	text-decoration: underline;
+}
+
+
+#footer {
+    background-color: #F5F5F5;
+    bottom: 0;
+    height: 60px;
+    position: absolute;
+    width: 100%;
+}
+
+.container .text-muted {
+    margin: 20px 0;
+}
+
+td.list-group-item2 {
+	border: 1px solid #DDDDDD;
+	background-color: white;
+}
+
+body {
+	background-image: url("../images/body-bg.jpg");
+}
+
+div#cartPanelContents {
+	font-size: 12px;
+}
+
+div#cartPic {
+	width: 22px;
+	height: 19px;
+	background-image: url("../images/cart.png");
+	margin-left: 60px;
+	margin-top: 10px;
+}
+
+span#numCartItems {
+	position: relative;
+	left: 15px;
+}
+
+div#my-shopping-cart:hover {
+	cursor: pointer;
+}
+
+button.btn:hover {
+	background-color: #E7E7E7;	
+}
+
+
